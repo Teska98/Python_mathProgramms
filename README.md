@@ -1,2 +1,2 @@
 # Python_mathProgramms
-Python programms using math functions
+Python programms using math library and functions
